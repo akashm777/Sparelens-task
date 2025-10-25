@@ -4,8 +4,6 @@ A modern, full-stack data visualization platform built for professional data ana
 
 ## 🌟 Project Highlights
 
-**My Internship Submission** - I spent weeks building this to showcase my full-stack development skills. Every feature was carefully planned and implemented to demonstrate real-world application development.
-
 ## 🚀 Features
 
 ### Core Features ✨
@@ -150,13 +148,6 @@ dataviz-pro/
 - Clean, maintainable code with proper separation of concerns
 - Extensive TypeScript types for better IDE support
 
-## 📊 Sample Datasets
-
-The project includes professionally curated sample datasets:
-
-- **📈 Sales Data** - E-commerce sales with multiple dimensions
-- **👥 Employee Data** - HR analytics with performance metrics
-- **📊 Custom Upload** - Support for your own CSV/Excel files
 
 ## 🚀 Deployment Options
 
@@ -198,6 +189,3 @@ This isn't just another CRUD application. It's a **professional-grade data visua
 - **Modern Python Development** - FastAPI, async/await, type hints
 - **Professional UI/UX** - Tailwind CSS, animations, accessibility
 - **Production Considerations** - Security, performance, scalability
-- **Comprehensive Documentation** - User guides, API docs, deployment guides
-
-**Built to impress and win the internship opportunity! 🏆**
