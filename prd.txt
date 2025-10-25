@@ -1,0 +1,42 @@
+﻿Data Visualization Dashboard 
+Project Overview
+Build a web-based data visualization dashboard platform where users can upload Data files (csv, excel, etc.), view their data as interactive tables and charts, apply filters, and manage their data securely via user accounts.
+
+
+Requirements
+* User Features:
+   * User Signup and Signin with secure authentication
+   * Upload Excel files to the platform
+   * Parse and save uploaded data to the database with proper database Schema.
+   * Show uploaded data in a paginated, sortable, searchable table
+   * Visualize data using dynamic charts (bar, line, pie, etc.) on the dashboard
+   * Implement UI filters/search for data columns that update table and charts simultaneously
+* Tech stack to use:
+   * Frontend: Use ReactJS to build a responsive dashboard interface
+   * Backend: Use Python FastAPI for API development, data processing, and authentication
+   * Database: Use any SQL or NoSQL database to save user data and uploaded files
+* Data Processing: All parsing, filtering, aggregation, and transformations should happen in the backend, not frontend.
+
+
+Deliverables
+* GitHub repo link with well-documented code
+* A short video demo (no voiceover needed) showcasing the dashboard features and user flows
+________________
+
+
+Evaluation Focus
+* Visualization: Effective, interactive, and accurate data visualizations; appropriate chart choices and smooth UI experience
+* Backend Processing: Efficient and correct server-side data handling, filtering, and aggregation
+* Schema & API Design: Efficient database schema with a consistent RESTful API using error handling.
+
+
+Bonus Feature
+* Light/Dark theme toggle for the UI
+* Role-based access control with "Admin" and "Member" users
+
+
+Notes for Candidates
+* Choose any sample dataset of your interest to demonstrate functionalities.
+* Use RESTful API design principles in the FastAPI backend.
+* Make sure to submit the assignment with the video and github link.
+* Take appropriate assumptions as needed to fill any ambiguous or unspecified details.

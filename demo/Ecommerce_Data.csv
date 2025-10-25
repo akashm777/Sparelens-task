@@ -1,0 +1,51 @@
+Date,Order_ID,Product_Category,Product_Name,Brand,Price,Quantity_Sold,Revenue,Customer_Age,Customer_Gender,Customer_Location,Payment_Method,Rating,Discount_Applied,Marketing_Channel,Season,Customer_Type
+2024-01-15,ORD001,Electronics,Wireless Headphones,TechPro,299.99,2,599.98,28,Male,New York,Credit Card,4.5,10,Social Media,Winter,Premium
+2024-01-16,ORD002,Clothing,Winter Jacket,FashionMax,189.99,1,189.99,35,Female,California,PayPal,4.2,15,Email Marketing,Winter,Regular
+2024-01-17,ORD003,Home & Garden,Smart Thermostat,HomeTech,249.99,1,249.99,42,Male,Texas,Credit Card,4.8,5,Google Ads,Winter,Premium
+2024-01-18,ORD004,Electronics,Gaming Mouse,TechPro,79.99,3,239.97,24,Male,Florida,Debit Card,4.3,20,Organic Search,Winter,Regular
+2024-01-19,ORD005,Beauty,Anti-Aging Cream,GlowCorp,159.99,2,319.98,45,Female,New York,Credit Card,4.6,0,Influencer,Winter,Premium
+2024-01-20,ORD006,Sports,Yoga Mat,FitLife,49.99,4,199.96,31,Female,California,PayPal,4.4,12,Social Media,Winter,Regular
+2024-02-01,ORD007,Electronics,Smartphone,TechPro,899.99,1,899.99,29,Male,Texas,Credit Card,4.7,8,Google Ads,Winter,Premium
+2024-02-02,ORD008,Clothing,Casual Shirt,FashionMax,59.99,5,299.95,33,Male,Florida,Debit Card,4.1,25,Email Marketing,Winter,Regular
+2024-02-03,ORD009,Home & Garden,Coffee Maker,HomeTech,199.99,2,399.98,38,Female,New York,Credit Card,4.5,18,Organic Search,Winter,Premium
+2024-02-04,ORD010,Electronics,Laptop,TechPro,1299.99,1,1299.99,26,Female,California,Credit Card,4.9,5,Social Media,Winter,Premium
+2024-02-15,ORD011,Beauty,Skincare Set,GlowCorp,89.99,3,269.97,39,Female,Texas,PayPal,4.3,15,Influencer,Winter,Regular
+2024-02-16,ORD012,Sports,Running Shoes,FitLife,129.99,2,259.98,27,Male,Florida,Credit Card,4.6,10,Google Ads,Winter,Premium
+2024-03-01,ORD013,Electronics,Tablet,TechPro,499.99,1,499.99,34,Male,New York,Debit Card,4.4,12,Organic Search,Spring,Regular
+2024-03-02,ORD014,Clothing,Spring Dress,FashionMax,79.99,3,239.97,30,Female,California,PayPal,4.7,20,Email Marketing,Spring,Premium
+2024-03-03,ORD015,Home & Garden,Garden Tools,HomeTech,149.99,1,149.99,48,Male,Texas,Credit Card,4.2,8,Social Media,Spring,Regular
+2024-03-15,ORD016,Beauty,Makeup Kit,GlowCorp,199.99,1,199.99,25,Female,Florida,Credit Card,4.8,0,Influencer,Spring,Premium
+2024-03-16,ORD017,Sports,Tennis Racket,FitLife,189.99,1,189.99,32,Male,New York,PayPal,4.5,15,Google Ads,Spring,Regular
+2024-03-17,ORD018,Electronics,Smart Watch,TechPro,349.99,2,699.98,36,Female,California,Credit Card,4.6,10,Social Media,Spring,Premium
+2024-04-01,ORD019,Clothing,Summer Shorts,FashionMax,39.99,6,239.94,28,Male,Texas,Debit Card,4.0,30,Email Marketing,Spring,Regular
+2024-04-02,ORD020,Home & Garden,Outdoor Furniture,HomeTech,599.99,1,599.99,41,Female,Florida,Credit Card,4.9,5,Organic Search,Spring,Premium
+2024-04-15,ORD021,Electronics,Bluetooth Speaker,TechPro,149.99,3,449.97,23,Male,New York,PayPal,4.4,18,Social Media,Spring,Regular
+2024-04-16,ORD022,Beauty,Hair Care Set,GlowCorp,129.99,2,259.98,37,Female,California,Credit Card,4.7,12,Influencer,Spring,Premium
+2024-05-01,ORD023,Sports,Fitness Tracker,FitLife,199.99,2,399.98,29,Male,Texas,Credit Card,4.5,8,Google Ads,Spring,Regular
+2024-05-02,ORD024,Clothing,Polo Shirt,FashionMax,69.99,4,279.96,35,Female,Florida,PayPal,4.3,22,Email Marketing,Spring,Premium
+2024-05-15,ORD025,Electronics,Gaming Console,TechPro,499.99,1,499.99,22,Male,New York,Credit Card,4.8,0,Organic Search,Spring,Premium
+2024-05-16,ORD026,Home & Garden,Kitchen Appliance,HomeTech,299.99,1,299.99,44,Female,California,Debit Card,4.6,15,Social Media,Spring,Regular
+2024-06-01,ORD027,Beauty,Perfume,GlowCorp,179.99,2,359.98,33,Female,Texas,Credit Card,4.4,10,Influencer,Summer,Premium
+2024-06-02,ORD028,Sports,Swimming Gear,FitLife,89.99,3,269.97,26,Male,Florida,PayPal,4.2,25,Google Ads,Summer,Regular
+2024-06-15,ORD029,Electronics,Camera,TechPro,799.99,1,799.99,31,Male,New York,Credit Card,4.9,5,Social Media,Summer,Premium
+2024-06-16,ORD030,Clothing,Summer Dress,FashionMax,99.99,2,199.98,28,Female,California,PayPal,4.5,18,Email Marketing,Summer,Regular
+2024-07-01,ORD031,Home & Garden,BBQ Grill,HomeTech,449.99,1,449.99,39,Male,Texas,Credit Card,4.7,8,Organic Search,Summer,Premium
+2024-07-02,ORD032,Electronics,Headphones,TechPro,199.99,2,399.98,24,Female,Florida,Debit Card,4.3,20,Social Media,Summer,Regular
+2024-07-15,ORD033,Beauty,Sun Care,GlowCorp,49.99,4,199.96,32,Female,New York,PayPal,4.6,12,Influencer,Summer,Premium
+2024-07-16,ORD034,Sports,Beach Volleyball,FitLife,59.99,2,119.98,27,Male,California,Credit Card,4.4,15,Google Ads,Summer,Regular
+2024-08-01,ORD035,Clothing,Swimwear,FashionMax,79.99,3,239.97,30,Female,Texas,PayPal,4.8,10,Email Marketing,Summer,Premium
+2024-08-02,ORD036,Electronics,Power Bank,TechPro,89.99,4,359.96,25,Male,Florida,Credit Card,4.2,25,Organic Search,Summer,Regular
+2024-08-15,ORD037,Home & Garden,Patio Set,HomeTech,699.99,1,699.99,46,Female,New York,Credit Card,4.9,0,Social Media,Summer,Premium
+2024-08-16,ORD038,Beauty,Travel Kit,GlowCorp,119.99,2,239.98,34,Female,California,Debit Card,4.5,18,Influencer,Summer,Regular
+2024-09-01,ORD039,Sports,Hiking Boots,FitLife,159.99,2,319.98,29,Male,Texas,PayPal,4.7,12,Google Ads,Fall,Premium
+2024-09-02,ORD040,Electronics,Smart TV,TechPro,999.99,1,999.99,38,Male,Florida,Credit Card,4.8,5,Social Media,Fall,Premium
+2024-09-15,ORD041,Clothing,Fall Jacket,FashionMax,149.99,2,299.98,33,Female,New York,PayPal,4.4,20,Email Marketing,Fall,Regular
+2024-09-16,ORD042,Home & Garden,Heater,HomeTech,199.99,1,199.99,42,Male,California,Credit Card,4.6,15,Organic Search,Fall,Premium
+2024-10-01,ORD043,Beauty,Moisturizer,GlowCorp,69.99,3,209.97,36,Female,Texas,Debit Card,4.3,8,Influencer,Fall,Regular
+2024-10-02,ORD044,Sports,Exercise Bike,FitLife,399.99,1,399.99,31,Male,Florida,Credit Card,4.9,0,Google Ads,Fall,Premium
+2024-10-15,ORD045,Electronics,Wireless Earbuds,TechPro,179.99,3,539.97,26,Female,New York,PayPal,4.5,22,Social Media,Fall,Regular
+2024-10-16,ORD046,Clothing,Sweater,FashionMax,89.99,4,359.96,35,Male,California,Credit Card,4.2,18,Email Marketing,Fall,Premium
+2024-11-01,ORD047,Home & Garden,Air Purifier,HomeTech,249.99,1,249.99,40,Female,Texas,PayPal,4.7,10,Organic Search,Fall,Regular
+2024-11-02,ORD048,Electronics,Gaming Keyboard,TechPro,129.99,2,259.98,23,Male,Florida,Credit Card,4.4,15,Social Media,Fall,Premium
+2024-11-15,ORD049,Beauty,Night Cream,GlowCorp,99.99,2,199.98,41,Female,New York,Debit Card,4.8,5,Influencer,Fall,Regular
+2024-11-16,ORD050,Sports,Winter Gloves,FitLife,29.99,6,179.94,28,Male,California,PayPal,4.1,25,Google Ads,Fall,Premium
